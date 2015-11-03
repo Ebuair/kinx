@@ -1,0 +1,1 @@
+#test use the command " git rm " to exercise to remove file from Git
